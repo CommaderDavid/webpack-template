@@ -1,6 +1,6 @@
 # Project name
-#### Lesson, and who for
-#### Date:  by:_** **_
+#### Lesson, for
+#### Date:  by:_**David Boedigheimer**_
 ### Description
 =
 ### BDD Process
@@ -12,3 +12,5 @@ Email
 ### Known bugs
 =
 ### License
+
+Copyright (c) 2020 _**David Boedigheimer**_
