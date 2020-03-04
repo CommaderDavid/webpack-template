@@ -4,7 +4,9 @@
 ### Description
 =
 ### BDD Process
-= if there is one
+1. example
+      * **Input**:
+      * **Output**:
 ### Setup
 *
 ### Contact
