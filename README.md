@@ -10,9 +10,9 @@
 ### Setup
 *
 ### Contact
-Email
+Contact me if you have any concerns or questions at
 ### Known bugs
-=
+
 ### License
 
 Copyright (c) 2020 _**David Boedigheimer**_
