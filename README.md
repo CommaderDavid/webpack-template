@@ -1,5 +1,5 @@
 # Project name
-#### Lesson, for
+#### Lesson, for Fidgetech
 #### Date:  by:_**David Boedigheimer**_
 ### Description
 =
